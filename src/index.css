@@ -1,0 +1,19 @@
+.wrapper{
+    direction: rtl!important;
+    text-align: right!important;
+}
+.header_title{
+    margin: 0;
+    padding: 0;
+    line-height: 70px;
+    background: #ada9a9;
+    color: whitesmoke;
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+a{
+    text-decoration: none;
+    color: #1a1414;
+}
+
